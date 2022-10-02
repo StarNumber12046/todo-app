@@ -1,5 +1,5 @@
 # todo-app
-My first react native app.
+My first react native app. (yet another todo list)
 
 
 # Requisites 
